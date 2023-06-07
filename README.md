@@ -1,5 +1,5 @@
 <div>
-<img src='./public/umam.png'/>
+<img src='./public/umamm.png'/>
 
 <h1> Tugas Makanan </h1>
 <p>Nama : Muchamad Asyroful Umam </p>
